@@ -9,7 +9,7 @@
 
 ## 🧠 Sobre mí
 
-- Profesional del **Marketing y la Comunicación**, especializado en **Marketing Digital y Ventas**.  
+- Profesional del **Marketing y la Comunicación**, especializado en **Marketing Digital y Operaciones**.  
 - Actualmente cursando **DAW** para profundizar en desarrollo web.  
 - Experiencia creando webs y landings para negocios reales (servicios, franquicias, agencia).
 

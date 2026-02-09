@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Mateo</h1>
 
 <p align="center">
-  Profesional del marketing digital estudiando Desarrollo de Aplicaciones Web (DAW).<br />
+  Profesional del Marketing Digital formándome en Desarrollo de Aplicaciones Web (DAW).<br />
   Combino código, diseño y estrategia para crear webs que venden.
 </p>
 

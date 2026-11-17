@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/mateo-canibano/"><img src="https://img.shields.io/badge/LinkedIn-mateo--canibano-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:mateocr97@gmail.com"><img src="https://img.shields.io/badge/Email-mateocr97@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Madrid%2C%20Espa%C3%B1a-0B1220?style=flat-square&logo=googlemaps&logoColor=38BDF8" alt="Madrid"/>
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas&color=0F2A47&style=flat-square" alt="Visitas"/>
+<img src="https://komarev.com/ghpvc/?username=mateocr-4&label=Visitas&color=0F2A47&style=flat-square" alt="Visitas"/>
 
 </div>
 
@@ -144,16 +144,16 @@ Proyectos full-stack desplegados en Vercel y servidores web, incluyendo entornos
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=0B1220&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=38BDF8&hide_border=true&radius=8" width="100%" alt="Gráfico de actividad"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mateocr-4&bg_color=0B1220&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=38BDF8&hide_border=true&radius=8" width="100%" alt="Gráfico de actividad"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=8" height="160" alt="Estadísticas"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" height="160" alt="Lenguajes"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mateocr-4&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=8" height="160" alt="Estadísticas"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateocr-4&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" height="160" alt="Lenguajes"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&border_radius=8" height="150" alt="Racha"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mateocr-4&theme=tokyonight&hide_border=true&border_radius=8" height="150" alt="Racha"/>
 
 </div>
 
